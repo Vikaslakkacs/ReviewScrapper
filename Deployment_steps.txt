@@ -1,0 +1,2 @@
+Deployment Review scrap in Cloud:
+Need to have account in Git hub, heroku, AWS and Azure
